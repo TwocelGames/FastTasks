@@ -1,0 +1,13 @@
+{
+  "name": "FastTasks",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "FastTasks": {
+        "$path": "src"
+      }
+    }
+    
+  }
+}
